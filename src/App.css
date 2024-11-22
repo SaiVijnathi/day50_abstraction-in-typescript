@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: white;
+  border-radius: 30px;
+  width: 600px;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  box-shadow: 10px 10px 10px grey;
+}
+
+body{
+  background-color: rgb(204, 200, 200);
+  padding-top: 150px;
+}
+
+button{
+  font-size: 1.5rem;
+  margin: 10px 50px 10px 50px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(204, 200, 200);
+  padding: 12px;
+}
+
+button:hover{
+  background-color: grey;
+  cursor: pointer;
+}
